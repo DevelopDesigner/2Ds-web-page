@@ -1,15 +1,57 @@
 /* header */
 
 .header{
-    background-color: green;
-    height: 20vh;
+  
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    height: 30vh;
     display: flex;
     flex-direction: row;
-    justify-content: center;
-}
+    justify-content: left;
 
+}
+x
 /* Logo */
 
 .logo{
-    width: 30%;
+    width: 60px;
+    height: 30px;
+    position: absolute;
+    padding-left: 0%;
+    
+}
+
+/* heading */
+.heading{
+    font-size: large;
+   text-align: center;
+   align-items: center;
+}
+
+/* name */
+.name{
+    font-size: x-large;
+    text-align: center;
+}
+/* Question */
+.question{
+    font-size: larger;
+    text-align: center;
+}
+/* introduction */
+.introduction{
+    font-size: large;
+    text-align: center;
+}
+
+.webname{
+    width: 33%;
+    align-items: center;
+    text-align: center;
+}
+
+.links{
+    width: 33%;
+    align-items: flex-end;
+    text-align: right;
 }
