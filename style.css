@@ -39,11 +39,11 @@ x
     font-size:110%;
     text-align: center;
 }
+
 /* introduction */
 .introduction{
-
-    font-size: 150%;
-    text-align: left;
+    font-size: 110%;
+    text-align:justify;
 }
 
 .webname{
