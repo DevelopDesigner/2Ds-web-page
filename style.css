@@ -89,6 +89,7 @@
 
 .images{
     width: 100%;
+    font-size: x-large;
     display: flex;
     justify-content: space-around;
 }
@@ -98,4 +99,5 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    ;
 }
